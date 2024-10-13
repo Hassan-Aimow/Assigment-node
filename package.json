@@ -1,0 +1,16 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "moment": "^2.30.1",
+    "moment-business-days": "^1.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
